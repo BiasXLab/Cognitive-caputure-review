@@ -4,6 +4,7 @@ Supplementary data for the article *"Understanding cognitive capture as a multid
 
 The repository contains the materials needed to reproduce the two analyses in the article: (1) a scoping review of review publications and (2) a bibliometric analysis of 950 Scopus documents.
 
+---
 ## 1. Scoping review
 
 **Search date:** 30 March 2026
@@ -14,7 +15,8 @@ The repository contains the materials needed to reproduce the two analyses in th
 Search string:
 
 ```
-TITLE-ABS-KEY ( "cognitive bias*" OR "shortcut*" OR "heuristic*" ) AND ( "digital platform*" OR "online platform*" OR "social media" OR "digital media" OR "online media" OR "online environment*" OR "digital ecosystem*" OR "algorithmic system*" OR "recommender system*" OR "digital infrastructure*" ) AND PUBYEAR > 2009 AND ( LIMIT-TO ( DOCTYPE , "re" ) )```
+TITLE-ABS-KEY ( "cognitive bias*" OR "shortcut*" OR "heuristic*" ) AND ( "digital platform*" OR "online platform*" OR "social media" OR "digital media" OR "online media" OR "online environment*" OR "digital ecosystem*" OR "algorithmic system*" OR "recommender system*" OR "digital infrastructure*" ) AND PUBYEAR > 2009 AND ( LIMIT-TO ( DOCTYPE , "re" ) )
+```
 
 The 32 reviews included after screening are listed in `Articles reviewed in scoping review.docx`.
 
