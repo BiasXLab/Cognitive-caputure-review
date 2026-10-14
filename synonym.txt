@@ -1,0 +1,55 @@
+coronavirus disease 2019, covid-19
+
+user, users
+
+systems, system
+
+algorithm, algorithms
+
+heuristic, heuristics
+
+networks, network
+
+recommendation, recommendations
+
+interaction, interactions
+
+learning, learnings
+
+reinforcement learning, reinforcement learnings
+
+social network, social networks
+
+bias, biases
+
+cognitive bias, cognitive biases
+
+cue, cues
+
+heuristic cue, heuristic cues
+
+machine learning, machine-learning
+
+media platform, media platforms
+
+chamber, chambers
+
+chamber,chambers
+
+echo chamber, echo chambers
+
+echo chamber,echo chambers
+
+recommendation system, recommendation systems
+
+recommendation systems, recommender systems
+
+recommendation system, recommender system
+
+recommendation system,recommendation systems
+
+recommendation systems,recommender systems
+
+recommendation system,recommender system
+
+artificial intelligence, intelligence ai
